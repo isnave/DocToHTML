@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <versionb>1.0.0.2</versionb>
+  <version>1.0.0.2</version>
+  <block>true</block>
 <url>"https://github.com/isnave/DocToHTML/blob/master/DOCXTOHTML.rar"</url>
  <changelog></changelog>
   <mandatory>false</mandatory>
